@@ -1,0 +1,24 @@
+for hour hand
+one rotation=12 hr
+12 hr->360 deg
+1 hr ->36 deg
+for h hrs->36h deg
+1 min=60 mins
+60 min->36 deg
+1 min->1/2 deg
+for m mins->m/2 deg
+thus
+for hour hand->(36h+m/2)deg
+
+for min hand
+one rotation=60 min
+60 min->360 deg
+1 min->6 deg
+m min->6m deg
+
+for sec hand
+one rotation=60 sec
+60 sec->360 deg
+1 sec->6 deg
+s sec->6s deg
+
